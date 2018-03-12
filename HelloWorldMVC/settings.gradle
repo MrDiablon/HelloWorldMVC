@@ -16,3 +16,7 @@ include 'services:webservice'
 */
 
 rootProject.name = 'HelloWorldMVC'
+
+include 'view'
+include 'Model'
+include 'Controller'
